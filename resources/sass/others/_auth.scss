@@ -1,0 +1,74 @@
+/*
+*   Login - Register
+*/
+
+.auth-card {
+    margin-top: 18%;
+    margin-bottom: 15%;
+    background-color: transparent !important;
+    border: none !important;
+    font-family: "Montserrat", sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: white !important;
+
+}
+
+.btn-galaxy{
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  letter-spacing: 1px !important;
+  display: inline-block !important;
+  padding: 8px 30px !important;
+  border-radius: 25px !important;
+  transition: background 0.5s !important;
+  margin: 10px !important;
+  border: 2px solid #fff !important;
+  color: #fff !important;
+  visibility: visible !important; 
+  animation-name: fadeInUp !important;
+}
+
+.btn-galaxy:hover {
+  color: #1dc8cd !important;
+  background: #fff !important;
+}
+
+/*
+*   Profile
+*/
+
+.username{
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+.top-profile-card{
+    border-bottom: 0px !important;
+    border-bottom-left-radius: 0rem !important;
+    border-bottom-right-radius: 0rem !important;
+}
+
+.profile-card{
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.bottom-profile-card{
+    border-top: 0px !important;
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+}
+
+.profile-card-body{
+    background-position: center center;
+    background-size: cover !important;
+    height: 250px !important;
+}
+
+.user-avatar{
+    width: 130px !important;
+    height: 122px !important;
+    margin-left: 43% !important;
+    margin-top: 5% !important;
+}
